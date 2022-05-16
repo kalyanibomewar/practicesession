@@ -1,2 +1,3 @@
 this file is being pulled from remote repository to the local repository. 
-I tried pull but didnt work, so merged and fetched files on local machine. 
+Merge and fetch worked
+Tried git pull , it also worked.
