@@ -1,0 +1,3 @@
+what we use in Terraform configuration files
+Providers, resources, variables, output, datasource, tf state file
+thank you
